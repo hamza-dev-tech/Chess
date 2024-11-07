@@ -34,7 +34,7 @@ Ensure you have the following installed:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/chess-game-app.git
+   git clone https://github.com/hamza-dev-tech/Chess.git
    cd chess-game-app
    ```
 
